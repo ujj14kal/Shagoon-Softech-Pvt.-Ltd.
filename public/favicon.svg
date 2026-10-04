@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect width="100" height="100" rx="14" fill="#f4f8fa"/><rect x="7" y="7" width="86" height="86" fill="none" stroke="#0046ab" stroke-width="7"/><path d="M50 21 78 34.5 50 48 22 34.5Z" fill="#0046ab" stroke="#0046ab" stroke-width="4" stroke-linejoin="round"/><path d="M42.5 31 38.5 34.5 42.5 38M51.8 29.2 48.2 39.8M57.5 31 61.5 34.5 57.5 38" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M24 47 50 60 76 47M24 59 50 72 76 59" fill="none" stroke="#0046ab" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#06346d"/>
+  <rect x="84" y="84" width="344" height="344" fill="none" stroke="#f4f8fa" stroke-width="28"/>
+  <g transform="translate(256 258) scale(4.2) translate(-50 -46.5)">
+    <path d="M50 21 78 34.5 50 48 22 34.5Z" fill="#f4f8fa" stroke="#f4f8fa" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M42.5 31 38.5 34.5 42.5 38M51.8 29.2 48.2 39.8M57.5 31 61.5 34.5 57.5 38" fill="none" stroke="#06346d" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 47 50 60 76 47M24 59 50 72 76 59" fill="none" stroke="#f4f8fa" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
